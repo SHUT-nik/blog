@@ -99,3 +99,7 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+.editorconfig
+/public/js
+/public/css
+/public/resources/orchid/
